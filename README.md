@@ -15,4 +15,4 @@ Easy-to-play game written in pure JS, but possibly this is not what you want to 
 
 Oh it's simple, really, just follow [this 🐷 link](https://arcadiusj.github.io/PigGame/). I enclosed a screenshot, so you don't get lost.
 
-![screen shot](https://repository-images.githubusercontent.com/216789142/bd6c2e00-f4cc-11e9-80ea-a1bea1863c78.png)
+![screen shot](https://github.com/ArcadiusJ/PigGame/blob/master/gameScreen.png)

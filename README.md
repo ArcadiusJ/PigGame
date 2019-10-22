@@ -14,3 +14,4 @@ Easy-to-play game written in pure JS, but possibly this is not what you want to 
 ## How can I play?
 
 Oh it's simple, really, just follow [this 🐷 link](https://arcadiusj.github.io/PigGame/). I enclosed a screenshot, so you don't get lost.
+!(https://repository-images.githubusercontent.com/216789142/bd6c2e00-f4cc-11e9-80ea-a1bea1863c78)
